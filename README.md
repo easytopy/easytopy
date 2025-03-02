@@ -6,8 +6,6 @@
 <h2 align="center">Stacks </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,ts,sqlite,fastapi,python,tailwindcss,react,expressjs,nodejs,nextjs,vercel" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,py,html,lua,selenium,vscode" />
   </a>
 </p>
-
-
