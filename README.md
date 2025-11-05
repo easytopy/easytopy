@@ -1,7 +1,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=easytopy&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easytopy&layout=compact&theme=blue_navy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img style="width:200%;height:3px;" src="./bar.gif" />
+<img style="width:825%;height:3px;" src="./bar.gif" />
 
 <h2 align="center">Stacks </h2>
 <p align="center">
